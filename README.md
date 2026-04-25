@@ -11,7 +11,7 @@ Lightweight and affordable robotic platform designed for Indian railway conditio
 
 Custom dataset of over 24,000 images (crack & null) for robust training.
 
-(https://github.com/user-attachments/files/27088303/POSTER.pdf)
+<img width="1755" height="1241" alt="Image" src="https://github.com/user-attachments/assets/4759c2e5-f74b-4d98-b9cf-80791af31b0f" />
 
 My Contriution
 [my_contribution.pdf](https://github.com/user-attachments/files/27088280/my_contribution.pdf)
