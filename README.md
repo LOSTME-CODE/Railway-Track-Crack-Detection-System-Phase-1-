@@ -10,12 +10,13 @@ Live video feed with GUI for human validation and logging.
 Lightweight and affordable robotic platform designed for Indian railway conditions.
 
 Custom dataset of over 24,000 images (crack & null) for robust training.
+--[POSTER.pdf](https://github.com/user-attachments/files/27088303/POSTER.pdf)
 
 My Contriution
 [my_contribution.pdf](https://github.com/user-attachments/files/27088280/my_contribution.pdf)
 
 
-[POSTER.pdf](https://github.com/user-attachments/files/27088303/POSTER.pdf)
+
 
 🛠 Hardware Components
 Raspberry Pi 5 (8GB RAM)
