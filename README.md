@@ -1,4 +1,4 @@
-# Affordable-Intelligent-Robot-for-Surveillance-of-Railway-Track
+# Railway Track Crack Detection System (Phase 1)
 This repository contains the design, implementation, and deployment details of a low-cost, AI-powered robotic system built for real-time railway track crack detection. The system leverages YOLOv8n, Raspberry Pi 5, and dual Pi cameras to automate the inspection process and improve safety by identifying structural defects in tracks early.
 Key Features
 Real-time crack detection using YOLOv8n deep learning model.
@@ -10,6 +10,11 @@ Live video feed with GUI for human validation and logging.
 Lightweight and affordable robotic platform designed for Indian railway conditions.
 
 Custom dataset of over 24,000 images (crack & null) for robust training.
+
+My Contriution
+[my_contribution.pdf](https://github.com/user-attachments/files/27088280/my_contribution.pdf)
+
+[POSTER.pdf](https://github.com/user-attachments/files/27088303/POSTER.pdf)
 
 🛠 Hardware Components
 Raspberry Pi 5 (8GB RAM)
