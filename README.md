@@ -89,9 +89,6 @@ Title	Computer-Implemented System and Method for Automated Railway Track Crack D
 Status	Published (Indian Patent)
 
 
-
----
-
 ---
 
 <h3 id="hardware-used">🔧 Hardware Used</h3>
